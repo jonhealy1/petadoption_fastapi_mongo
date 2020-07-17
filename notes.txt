@@ -1,3 +1,4 @@
 https://medium.com/@bruno.fosados/simple-learn-docker-fastapi-and-vue-js-first-part-docker-setup-a8e4c09ef9c4
 
-
+$ export MONGO_INITDB_ROOT_USERNAME="tancho_usuer"
+$ export MONGO_INITDB_ROOT_PASSWORD="4dm1n4dm1n"
