@@ -2,3 +2,11 @@ https://medium.com/@bruno.fosados/simple-learn-docker-fastapi-and-vue-js-first-p
 
 $ export MONGO_INITDB_ROOT_USERNAME="tancho_usuer"
 $ export MONGO_INITDB_ROOT_PASSWORD="4dm1n4dm1n"
+
+brew services start mongodb-community@4.2
+
+brew services stop mongodb-community@4.2
+
+background process:
+
+mongod --config /usr/local/etc/mongod.conf --fork
